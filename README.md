@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthSingh2003&theme=dark_lover" alt="siddharthSingh2003" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **Java Script**
+- 💬 Ask me about **Cosmos**
 - 📫 How to reach me **sidsingh1679@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ZCrZ8j-vPZ4D36TNWM1krYSNRRQDOWKM/view?usp=sharing**
+- 📄 Know about my experiences **https://shorturl.at/gyAM5**
 - ⚡ Fun fact **I turn life into art, one click at a time**
 
 <div> <a href="https://www.linkedin.com/in/siddharth-singh1679" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -40,7 +40,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthSingh2003&layout=compact&theme=tokyonight" alt=siddharthSingh2003 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthSingh2003&layout=compact&theme=default" alt=siddharthSingh2003 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthSingh2003&show_icons=true&locale=en&theme=tokyonight" alt="siddharthSingh2003" /></p>
 
