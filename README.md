@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **Cosmos**
 - 📫 How to reach me **sidsingh1679@gmail.com**
-- 📄 Know about my experiences **https://shorturl.at/gyAM5**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1UQICSaoBY299ydoVSKHlDU9SiSQ9LP0z/view?usp=sharing**
 - ⚡ Fun fact **I turn life into art, one click at a time**
 
 <div> <a href="https://www.linkedin.com/in/siddharth-singh1679" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
