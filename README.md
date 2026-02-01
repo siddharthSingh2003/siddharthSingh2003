@@ -59,23 +59,25 @@
 
 
 
-name: Generate snake animation 
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"   # runs once every 12 hours
   workflow_dispatch:
-
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -86,6 +88,7 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
